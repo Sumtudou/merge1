@@ -9,5 +9,8 @@ public class Test2 {
         System.out.println("I am in master branch, I change test2");
         System.out.println("I am in master branch, I change test2");
         System.out.println("I am in master branch, I change test2");
+        System.out.println("I am in test Branch, and change Test2");
+        System.out.println("I am in test Branch, and change Test2");
+        System.out.println("I am in test Branch, and change Test2");
     }
 }
