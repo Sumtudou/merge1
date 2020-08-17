@@ -5,5 +5,9 @@ public class Test2 {
         System.out.println("I am Jay ,I add test2");
         System.out.println("I am Jay ,I add test2");
         System.out.println("I am Jay ,I add test2");
+
+        System.out.println("I am in test branch");
+        System.out.println("I am in test branch");
+        System.out.println("I am in test branch");
     }
 }
