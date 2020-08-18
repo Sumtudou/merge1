@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34a67345-eb4e-43a2-a807-5aa521853df6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gEOHWQl3uIFid3cuVBpXxq6FbY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a67345-eb4e-43a2-a807-5aa521853df6" name="Default Changelist" comment="" />
+      <created>1597676197776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597676197776</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[merge][green] refactor: modify test1 ,main">
+      <created>1597676976068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597676976068</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[merge][green] refactor:slove conflict">
+      <created>1597677709153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597677709153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[merge][green] refactor:slove conflict again">
+      <created>1597678852362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597678852362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[merge][green] refactor: change it for rebase first.">
+      <created>1597725135784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597725135784</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[merge][green] refactor: change it for rebase second.">
+      <created>1597725286657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597725286657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[merge][green] refactor: green change Test1 first">
+      <created>1597726341562</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597726341562</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[merge][green] refactor: green change Test1 second">
+      <created>1597726372604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597726372604</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[merge][green] refactor: modify test1 ,main" />
+    <MESSAGE value="[merge][green] refactor:slove conflict" />
+    <MESSAGE value="[merge][green] refactor:slove conflict again" />
+    <MESSAGE value="[merge][green] refactor: change it for rebase first." />
+    <MESSAGE value="[merge][green] refactor: change it for rebase second." />
+    <MESSAGE value="[merge][green] refactor: green change Test1 first" />
+    <MESSAGE value="[merge][green] refactor: green change Test1 second" />
+    <option name="LAST_COMMIT_MESSAGE" value="[merge][green] refactor: green change Test1 second" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="95" width="1638" height="869" key="MergeDialog" timestamp="1597678778033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="141" y="95" width="1638" height="869" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597678778033" />
+    <state x="673" y="248" width="723" height="493" key="MultipleFileMergeDialog" timestamp="1597678778033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="248" width="723" height="493" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597678778033" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597726375834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597726375834" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597717132631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode" timestamp="1597729427115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1597729427115" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597717132631" />
+    <state x="761" y="308" key="git4idea.merge.GitMergeDialog" timestamp="1597678693924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="308" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597678693924" />
+    <state x="687" y="308" key="git4idea.merge.GitPullDialog" timestamp="1597728150721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597728150721" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597729406664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="0" width="1340" height="1036" key="search.everywhere.popup.inPresentationMode" timestamp="1597729461655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="0" width="1340" height="1036" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1597729461655" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597729406664" />
+  </component>
+</project>
