@@ -9,5 +9,9 @@ public class Test1 {
         System.out.println("I am green, I modify test1 for rebase");
         System.out.println("I am green, I modify test1 for rebase");
         System.out.println("I am green, I modify test1 for rebase");
+
+        System.out.println("I am green, I modify test1 for rebase second");
+        System.out.println("I am green, I modify test1 for rebase second");
+        System.out.println("I am green, I modify test1 for rebase second");
     }
 }
